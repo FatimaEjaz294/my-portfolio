@@ -474,7 +474,7 @@ export default function Home() {
                   <div className="project-buttons">
 
                     <a
-                      href="https://fatimaejaz294.github.io/Aniverse/"
+                      href="https://aniverse-nu-seven.vercel.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="project-link"
@@ -587,7 +587,7 @@ export default function Home() {
                   <div className="project-buttons">
 
                     <a
-                      href="https://fatimaejaz294.github.io/space-exploration/"
+                      href=" https://fatimaejaz294.github.io/space-website/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="project-link"
@@ -596,7 +596,7 @@ export default function Home() {
                     </a>
 
                     <a
-                      href="https://github.com/FatimaEjaz294/space-website"
+                      href=" https://fatimaejaz294.github.io/space-website/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="project-link"
